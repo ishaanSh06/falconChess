@@ -4,7 +4,7 @@
 > STAR, FORK, FOLLOW SELF_HOSTING guide and ENJOY!!!
 >
 >
-> ![visitors](https://visitor-badge.glitch.me/badge?page_id=JeherillaJanwar.falconChess)
+> ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishaanSh06.falconChess)
 
 <hr />
 
@@ -42,7 +42,7 @@ $ npm install -g npm@latest
 
 ```bash
 # Clone Falcon Chess repo
-$ git clone https://github.com/JeherillaJanwar/falconChess.git
+$ git clone https://github.com/ishaanSh06/falconChess.git
 # Go to falconChess dir
 $ cd falconChess
 # Copy .env.template to .env and edit it if needed
@@ -60,7 +60,7 @@ Open `localhost:8080` and enjoy chess
 
 <br/>
 
-To self-hosting falconChess, just follow [these steps](https://github.com/JeherillaJanwar/falconChess/blob/main/docs/self_hosting.md).
+To self-hosting falconChess, just follow [these steps](https://github.com/ishaanSh06/falconChess/blob/main/docs/self_hosting.md).
 
 </details>
 

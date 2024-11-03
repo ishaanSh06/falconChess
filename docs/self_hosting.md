@@ -23,7 +23,7 @@ $ npm install -g npm@latest
 
 ```bash
 # Clone Falcon Chess repo
-$ git clone https://github.com/JeherillaJanwar/falconChess.git
+$ git clone https://github.com/ishaanSh06/falconChess.git
 # Go to falconChess dir
 $ cd falconChess
 # Copy .env.template to .env and edit it if needed
