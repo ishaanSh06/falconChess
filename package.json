@@ -13,7 +13,7 @@
     "@chrisoakman/chessboardjs": "^1.0.0",
     "chess.js": "^1.0.0",
     "dotenv": "^16.0.3",
-    "express": "^4.17.1",
+    "express": "^5.1.0",
     "ngrok": "^4.3.3",
     "prettier": "^3.0.0",
     "path": "0.12.7",
